@@ -1,3 +1,5 @@
 *
 !img/
+!img/articles
+!img/articles/*
 !.gitignore
